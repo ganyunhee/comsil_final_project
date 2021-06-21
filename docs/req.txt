@@ -1,0 +1,12 @@
+code
+readme.txt(how to use the program)
+report
+ppt
+video pres (mp4, avi)
+
+
+ppt / video pres
+project outline
+show program
+algorithm and data structure
+additional : flowchart
